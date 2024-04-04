@@ -1,2 +1,2 @@
 # Web-scraping
-Python scripts for the projects that required Web scrapping.
+Python scripts for the projects extracted from websites.
